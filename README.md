@@ -39,8 +39,8 @@ Feel free to reach out if you want to collaborate on MERN projects or discuss th
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nallakaruppannasamy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nallakaruppannasamy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🛡️ Tech Stack Badges
