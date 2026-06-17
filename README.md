@@ -33,7 +33,7 @@ I am a passionate and curious B.E. ECE student at **Sathyabama Institute of Scie
 
 Feel free to reach out if you want to collaborate on MERN projects or discuss the latest in tech!
 
-[**LinkedIn**](https://www.linkedin.com/in/nallakaruppannasamyr) | [**Portfolio**](https://my-portfolio-rose-pi-46.vercel.app)
+[**LinkedIn**](https://www.linkedin.com/in/nallakaruppannasamyr) | [**Portfolio**](https://nallakaruppannasamy.vercel.app)
 
 
 ## 📊 GitHub Stats
