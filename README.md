@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nallakaruppannasamy
 
-### 📡 Electronics and Communication Engineering | 💻 MERN Stack Developer | 🚀 Executive Council Member @ ISTE Sathyabama
+### 📡 Electronics and Communication Engineering | 💻 MERN Stack Developer | 🚀 Chairperson @ ISTE Sathyabama
 
 I am a passionate and curious B.E. ECE student at **Sathyabama Institute of Science and Technology**. I specialize in blending my technical hardware background with creative software problem-solving to build responsive, full-stack web applications.
 
